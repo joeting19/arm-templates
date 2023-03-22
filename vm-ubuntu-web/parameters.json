@@ -1,0 +1,87 @@
+{
+    "$schema": "https://schema.management.azure.com/schemas/2015-01-01/deploymentParameters.json#",
+    "contentVersion": "1.0.0.0",
+    "parameters": {
+        "location": {
+            "value": null
+        },
+        "networkInterfaceName1": {
+            "value": null
+        },
+        "networkSecurityGroupName": {
+            "value": null
+        },
+        "networkSecurityGroupRules": {
+            "value": null
+        },
+        "subnetName": {
+            "value": null
+        },
+        "virtualNetworkName": {
+            "value": null
+        },
+        "addressPrefixes": {
+            "value": null
+        },
+        "subnets": {
+            "value": null
+        },
+        "publicIpAddressName1": {
+            "value": null
+        },
+        "publicIpAddressType": {
+            "value": null
+        },
+        "publicIpAddressSku": {
+            "value": null
+        },
+        "pipDeleteOption": {
+            "value": null
+        },
+        "virtualMachineName": {
+            "value": null
+        },
+        "virtualMachineName1": {
+            "value": null
+        },
+        "virtualMachineComputerName1": {
+            "value": null
+        },
+        "virtualMachineRG": {
+            "value": null
+        },
+        "osDiskType": {
+            "value": null
+        },
+        "osDiskDeleteOption": {
+            "value": null
+        },
+        "virtualMachineSize": {
+            "value": null
+        },
+        "nicDeleteOption": {
+            "value": null
+        },
+        "adminUsername": {
+            "value": null
+        },
+        "adminPublicKey": {
+            "value": null
+        },
+        "customData": {
+            "value": null
+        },
+        "securityType": {
+            "value": null
+        },
+        "secureBoot": {
+            "value": null
+        },
+        "vTPM": {
+            "value": null
+        },
+        "zone": {
+            "value": null
+        }
+    }
+}
